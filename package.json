@@ -1,0 +1,19 @@
+{
+  "name": "react-native-timeslot-picker",
+  "version": "1.0.0",
+  "description": "time slot picker for react native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suresssh/react-native-timeslot-picker.git"
+  },
+  "author": "suresh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suresssh/react-native-timeslot-picker/issues"
+  },
+  "homepage": "https://github.com/suresssh/react-native-timeslot-picker#readme"
+}
